@@ -3,7 +3,7 @@
 
 1. Escribir un programa que muestre por pantalla la cadena de texto.
 
-2. Declare una variable que en su valor contenga un digito como cadena de texto
+2. Declare una variable que en su valor contenga un digito como cadena de texto.
 
 3.  Declare una variable con su nombre, otra con su apellido y concatenelas para mostrar por consola.
 
