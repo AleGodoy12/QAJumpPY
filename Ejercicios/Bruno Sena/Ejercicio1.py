@@ -82,6 +82,7 @@ suma = num1 + num2
 resta = num1 - num2
 multiplicacion = num1 * num2
 division = num1 / num2
+print(f"Los resultados son: suma = {suma}, resta = {resta}, multiplicacion = {multiplicacion}, division = {division}")
 
 """
 Solución Java:
@@ -103,5 +104,3 @@ public class Ejercicio1 {
     }
 }
 """
-
-print(f"Los resultados son: suma = {suma}, resta = {resta}, multiplicacion = {multiplicacion}, division = {division}")
