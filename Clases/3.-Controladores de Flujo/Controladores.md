@@ -385,6 +385,7 @@ Si quisiéramos recorrer un string:
 texto = 'Hola Mundo, estoy usando for en Python'
 for letra in texto:
     print(letra)
+    
 texto2 = ''
 for letra in texto:
     texto2 = letra * 2
