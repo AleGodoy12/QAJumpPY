@@ -145,7 +145,7 @@ print(tuple(lista_galletas));
 #         lista_galletas.add("Bicarbonato");
 #         lista_galletas.add("Esencia de vainilla");
 #         System.out.println(lista_galletas.size());
-#         System.out.println();
+#         System.out.println(lista_galletas);
 
 #         #tupla
 #         String[] galletas= new String[lista_galletas.size()];
